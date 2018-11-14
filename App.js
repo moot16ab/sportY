@@ -19,6 +19,7 @@ const SettingsStack = createStackNavigator({
   Profile: { screen: ProfileScreen },
 });
 
+//Heeeeeeey hooo
 const ProfileStack = createStackNavigator({
   Home: { screen: HomeScreen },
   Settings: { screen: DetailsScreen},
